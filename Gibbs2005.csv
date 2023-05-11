@@ -1,0 +1,75 @@
+Test #,Make - Model - Color,Size (inches) - Material - Construction,Initial Unit Length (cm),Mass (kg),Drop Height (cm),Fall Factor,Slide Distance (cm),Final Unit Length (cm),Maximum Arrest Force (N),Comments
+27,Black Diamond - Daisy Chain - Purple,11/16 x 55 - Nylon - sewn,132,80,33,0.25,,143,3628,No apparent damage to the daisy chain. All bar tacks intact.
+28,Black Diamond - Daisy Chain - Yellow,11/16 x 55 - Nylon - sewn,133,80,66.5,0.5,,146.5,5094,No apparent damage to the daisy chain. All bar tacks intact.
+29,Black Diamond - Daisy Chain - Purple,11/16 x 55 - Nylon - sewn,133,80,99,0.75,,147.5,6962,No apparent damage to the daisy chain. All bar tacks intact.
+30,Black Diamond - Daisy Chain - Yellow,11/16 x 55 - Nylon - sewn,133,80,132,1,,151,8211,Visible damage - first bar tack proximal to the load totally blown out. Girth hitch of the test unit to the shackle extremely difficult to release nylon welding noted inside of girth hitch.
+31,Black Diamond - Daisy Chain -,11/16 x 55 - Nylon - sewn,133,80,165,1.25,,153,9155,Girth hitch easy to remove. Three sets of bar tacks blown out from anchor side of test unit.
+32,Yates - Adjustable Daisy (Shorty Screamer) -,1 Nylon Webbing w/ adjustable cam buckle - Nylon -,122.5,80,122.5,1,,164.5,4866,Unit was preset with aprox. 20cm of available tail prior to drop. Shorty Screamer completely deployed. Girth hitch easy to remove. Slight deformation of cam buckle noted.
+33,Yates - Adjustable Daisy (Shorty Screamer) -,1 Nylon Webbing w/ adjustable cam buckle - Nylon -,120.5,80,180.75,1.5,,Failed,6592,Unit was pre -set with ≈20cm of available tail prior to drop. Shorty Screamer completely deployed. Daisy appeared to have failed at the cam buckle location.
+34,Yates - Adjustable Daisy (No Shorty Screamer) -,1 Nylon Webbing w/ adjustable cam buckle - Nylon -,105,80,105,1,,Failed,6983,Unit was pre-set with aprox. 20cm of available tail prior to drop. Failure noted at cam buckle location.
+35,- Purcell Prusik (2 wrap prusik) -,7mm Mammut - Cord - tied,88,80,88,1,6,105,7103,No apparent damage.
+36,- Purcell Prusik (2 wrap prusik) -,7mm Mammut - Cord - tied,85,80,127.5,1.5,10,102.5,8870,No apparent damage.
+37,Black Diamond - Daisy Chain - Yellow,11/16 x 45 - Nylon - sewn,110,80,110,1,,125.5,7592,Three bar tacks blown apart (proximal to anchor side).
+38,Black Diamond - Daisy Chain - Green,11/16 x 45 - Nylon - sewn,110,80,110,1,,123.5,8287,Three bar tacks blown apart.
+39,Black Diamond - Daisy Chain (Shorty Screamer) -,11/16 x 45 - Nylon - sewn,118,80,118,1,,159,5821,Shorty Screamer fully deployed. No apparent damage to daisy chain.
+40,Climb High - Daisy Chain -,11/16 x 48 - Spectra - sewn,129,80,129,1,,Failed,10958,Daisy chain failed at first pocket proximal to the anchor side.
+41,Climb High - Daisy Chain -,11/16 x 48 - Spectra - sewn,130,80,130,1,,Failed,11371,Daisy chain failed at girth hitch attachment to the test mass.
+42,Climb High - Daisy Chain (Shorty Screamer) -,11/16 x 48 - Spectra -sewn,139,80,139,1,,193,7070,Shorty Screamer completely deployed. No apparent damage to the daisy chain.
+43,Black Diamond - Daisy Chain -,11/16 x 45 - Nylon - sewn,109,80,163.5,1.5,,128,14716,Significant difficulty removing girth hitch nylon welding noted at girth hitch. Eight bar tacks blown out.
+44,Black Diamond - Daisy Chain -,11/16 x 45 - Nylon - sewn,111,80,166.5,1.5,,130.5,12859,No difficulty removing girth hitch no nylon welding noted at girth hitch. Seven bar tacks blown out.
+45,Black Diamond - Daisy Chain (Shorty Screamer) -,11/16 x 45 - Nylon - sewn,118,80,177,1.5,,166,7038,Shorty Screamer completely deployed. No apparent damage to the daisy chain.
+46,Climb High - Daisy Chain -,11/16 x 48 - Spectra - sewn,130.5,80,195.75,1.5,,Failed,17007,Four bar tacks blown apart before complete failure.
+47,Climb High - Daisy Chain (Shorty Screamer) -,11/16 x 48 - Spectra - sewn,139,80,208.5,1.5,,206.5,13141,Shorty Screamer completely deployed. Fibers separating. Near failure of daisy chain.
+1,Yates - Heavy Duty Daisy Chain - Black,70 x 1 - Nylon (suspect Spec 18) -,173,100,173,1,,MNT,13327,No apparent damage.
+2,Yates - Heavy Duty Daisy Chain - Black,70 x 1 - Nylon (suspect Spec 18) -,173,100,259.5,1.5,,198,16523,Four bar tacks blown apart (proximal to anchor side).
+3,Yates - Heavy Duty Daisy Chain - Black,70 x 1 - Nylon (suspect Spec 18) -,173,100,303,1.75,,200,17294,Four bar tacks blown apart (anchor side). One bar tack torn on load side. Heavy fusing at girth hitch.
+4,Metolius - PAS -,- Dyneema - sewn,99,100,99,1,,116,19257,Rigged per manufacturers instructions. Minor chafe at girth hitch. No other apparent damage.
+5,Metolius - PAS -,- Dyneema - sewn,99,100,148.5,1.5,,Failed,20661,Failed in first link after the girth hitch at the load end. Failed in the webbing link - not the stitching.
+6,Metolius - PAS -,- Dyneema - sewn,99,100,123.8,1.25,,Failed,20900,Same failure location as in drop test #5.
+7,Metolius - PAS -,- Dyneema - sewn,99,100,99,1,,116,18251,No apparent damage.
+8,- Purcell Prusik (3 wrap prusik) -,7mm PMI - Cord - tied,66.5,100,66.5,1,13,91,9135,Purcell adjusted to its shortest configuration. Prusik appropriately snug (e.g. hear the friction). Light chafe at girth hitch. Moderate chafe at figure 8. Light chafe/glaze at prusik location.
+9,- Purcell Prusik (3 wrap prusik) -,7mm PMI - Cord - tied,71,100,106.5,1.5,12,93.5,12707,Light chafe at girth hitch. Light to moderate chafe at figure 8. Light to moderate chafe/glaze at prusik.
+10,- Purcell Prusik (3 wrap prusik) -,7mm PMI - Cord - tied,68,100,136,2,15.5,95.5,12987,Moderate chafe at girth hitch. Light to moderate chafe at figure 8. Light to moderate chafe/glaze at prusik.
+11,- Purcell Prusik (2 wrap prusik) -,7mm PMI - Cord - tied,72,100,72,1,21.5,98,9731,"Same set up as drops 8-10 except 2-wrap prusik (shortest configuration, snug prusik, etc.) Light chafe at girth hitch. Light chafe at figure 8. Light to moderate chafe/glaze at prusik."
+12,- Purcell Prusik (2 wrap prusik) -,7mm PMI - Cord - tied,73,100,109.5,1.5,38.5,108.5,10073,Light chafe at girth hitch. Light chafe at figure 8. Light to moderate chafe/glaze at prusik.
+13,- Purcell Prusik (2 wrap prusik) -,7mm PMI - Cord - tied,69.5,100,139,2,48,111.5,11918,Moderate chafe at girth hitch. Moderate chafe at figure 8. Moderate chafe/glaze at prusik.
+14,- Purcell Prusik (2 wrap prusik) -,7mm PMI - Cord - tied,52.5,100,78.75,1.5,0,61,15057,The test included a carabiner-clip from the primary attachment loop back to the girth hitch location. This configuration resulted in a shorter lanyard length and no slippage of the prusik hitch. Moderate chafe at girth hitch. Moderate chafe at figure 8. Moderate chafe/glaze at prusik. Some sheath damage at girth hitch.
+15,- Purcell Prusik (3 wrap prusik) -,6mm PMI - Cord - tied,74,100,74,1,12,97,8947,Light chafe at girth hitch. Moderate chafe at figure 8. Moderate chafe/glaze at prusik.
+16,- Purcell Prusik (3 wrap prusik) -,6mm PMI - Cord - tied,66.5,100,99.75,1.5,16.5,93,11151,Light chafe at girth hitch. Moderate chafe at figure 8. Moderate chafe/glaze at prusik.
+17,- Purcell Prusik (3 wrap prusik) -,6mm PMI - Cord - tied,67.5,100,135,2,21,95.5,11491,Light to moderate chafe at girth hitch. Moderate chafe at figure 8. Moderate chafe/glaze at prusik.
+18,- Purcell Prusik (2 wrap prusik) -,6mm PMI - Cord - tied,74,100,74,1,24.5,101,9753,Light chafe at girth hitch. Light chafe at figure 8. Moderate chafe/glaze at prusik.
+19,- Purcell Prusik (2 wrap prusik) -,6mm PMI - Cord - tied,75,100,112.5,1.5,31.5,109.5,11112,Moderate chafe at girth hitch. Sheath stripped on one strand at figure 8. Moderate chafe/glaze at prusik.
+20,- Purcell Prusik (2 wrap prusik) -,6mm PMI - Cord - tied,74,100,148,2,54,119.5,11673,Moderate chafe at girth hitch. Moderate chafe at figure 8. Moderate to heavy chafe/glaze at prusik.
+21,Yates - Daisy Chain (Shorty Screamer) -,13mm - Spectra - sewn,125,100,125,1,,178.5,11140,Shorty Screamer fully deployed. Girth hitch easy to undo.Daisy stitching coming apart at anchor end.
+22,Yates - Daisy Chain (Shorty Screamer) -,13mm - Spectra - sewn,125,100,187.5,1.5,,Failed,12539,Shorty Screamer fully deployed. Daisy failed in strand near Screamer girth hitch connection. Only the stub of bar tacking that wedged itself into the Screamer girth hitch connection prevented the load from grounding.
+23,Yates - Daisy Chain (Shorty Screamer) -,13mm - Spectra - sewn,125,100,156.25,1.25,,Failed,16110,Same results as drop test #22.
+24,Yates - Daisy Chain (No Shorty Screamer) -,13mm - Spectra - sewn,115,100,86.5,0.75,,Failed,10800,Failed in a bar tacked location.
+25,Yates - Daisy Chain (No Shorty Screamer) -,13mm - Spectra - sewn,115,100,57.5,0.5,,Failed,11307,Failed.
+26,Yates - Daisy Chain (No Shorty Screamer) -,13mm - Spectra - sewn,115,100,28.75,0.25,,MNT,9096,Near failure. Fibers separating at first bar tack.
+27,Yates - Daisy Chain -,1/16 - Nylon - sewn,MNT,100,0,0,,MNT,2651,"Clipped two pockets side by side. Demonstrating an incorrect attachment method, but one that is commonly observed to be used in the field. No apparent damage."
+28,Yates - Daisy Chain -,1/16 - Nylon - sewn,100,100,25,0.25,,MNT,4698,Same set up as drop test #27. No failure.
+29,Yates - Daisy Chain -,1/16 - Nylon - sewn,94,100,31.3,0.33,,MNT,5949,Same set up as drop tests #27 & 28. Tore through one and a half of three bar tacks.
+30,Yates - Daisy Chain -,1/16 - Nylon - sewn,87,100,43.5,0.5,,Failed,6434,Same set up as drop tests #27 - 29. Failed.
+31,Yates - Adjustable Daisy (Shorty Screamer) -,Nylon Webbing adjustable cam buckle - Nylon -,100,100,100,1,,MNT,6663,Full deployment of Shorty Screamer. Deformation of buckle. Moderate damage to webbing under the cam.
+32,Yates - Daisy Chain (frozen overnight) -,1/16 - Nylon - sewn,130,80,130,1,,151,9020,Soaked in water for 5 minutes and left outside overnight (-2º C). Stiff prior to drop test.
+33,Climb High - Daisy Chain -,1/16 - Spectra - sewn,130,80,65,0.5,,153.5,9949,One pocket blown out at anchor end.
+34,Climb High - Daisy Chain -,1/16 - Spectra - sewn,130,80,97.5,0.75,,154,14685,Two bar tacks blown out at anchor end.
+35,Climb High - Daisy Chain (Shorty Screamer) -,1/16 - Spectra - sewn,139,80,173.75,1.25,,198,10492,Screamer fully deployed. No bar tacks blown out on daisy.
+36,Climb High - Daisy Chain - Red,25 mm - Nylon tubular - sewn,125,80,125,1,,137,10854,No apparent damage.
+37,Climb High - Daisy Chain - Green,25 mm - Nylon tubular - sewn,125,80,187.5,1.5,,137,15093,No apparent damage. Light chafing at girth hitch.
+38,Climb High - Daisy Chain - Yellow,25 mm - Nylon tubular - sewn,125,80,250,2,,139,19429,No pockets blown. Light chafing at girth hitch.
+39,- Purcell Prusik (3 wrap prusik) -,7mm PMI - Cord - tied,72,80,72,1,6,89,8096,Light chafe at girth hitch. Light chafe at figure 8. Light chafe/glaze at prusik.
+40,- Purcell Prusik (3 wrap prusik) -,7mm PMI - Cord - tied,67.5,80,101.25,1.5,24.5,96.5,11314,Light chafe at girth hitch. Light chafe at figure 8. Light to moderate chafe/glaze at prusik.
+41,- Purcell Prusik (3 wrap prusik) -,7mm PMI - Cord - tied,73,80,146,2,13,96,11773,Moderate chafe at girth hitch. Light to moderate chafe at figure 8. Light to moderate chafe/glaze at prusik.
+42,- Purcell Prusik (3 wrap prusik) -,7mm PMI - Cord - tied,32,80,32,1,MNT,39,8512,The test included a carabiner-clip from the primary attachment loop back to the girth hitch location. Similar to the test set up in drop #14. Primary difference was that the prusik hitch was set midway along its adjustable length to allow for some slippage.
+43,- Purcell Prusik (3 wrap prusik) -,6mm PMI - Cord - tied,70,80,70,1,7,90.5,7235,Light chafe at girth hitch. Very light chafe at figure 8. Negligible chafe/glaze at prusik.
+44,- Purcell Prusik (3 wrap prusik) -,6mm PMI - Cord - tied,72,80,108,1.5,14,96.5,9646,Light chafe at girth hitch. Light chafe at figure 8. Light chafe/glaze at prusik.
+45,- Purcell Prusik (3 wrap prusik) -,6mm PMI - Cord - tied,73,80,146,2,14.5,97.5,11307,Light to moderate chafe at girth hitch. Light to moderate chafe at figure 8. Light chafe/glaze at prusik.
+46,- Purcell Prusik (2 wrap prusik) -,6mm PMI - Cord - tied,74,80,74,1,24,101.5,7939,Negligible chafe at girth hitch. Negligible chafe at figure 8. Light chafe/glaze at prusik.
+47,- Purcell Prusik (2 wrap prusik) -,6mm PMI - Cord - tied,76,80,114,1.5,42.5,114.5,9696,Light chafe at girth hitch. Moderate chafe at figure 8. Moderate chafe/glaze at prusik.
+48,- Purcell Prusik (2 wrap prusik) -,6mm PMI - Cord - tied,74,80,148,2,46,116.5,11409,Moderate chafe at girth hitch. Moderate chafe at figure 8. Moderate chafe/glaze at prusik.
+49,Metolius - PAS -,- Dyneema - sewn,100,80,125,1.25,,115,20130,Some light webbing cutting noted where girth hitch loop links to adjacent sewn link.
+50,Metolius - PAS -,- Dyneema - sewn,100,80,150,1.5,,115.5,19864,Some light webbing cutting noted where girth hitch loop links to adjacent sewn link.
+51,Climb High - Daisy Chain - Black,25 mm - Nylon tubular - sewn,125,100,125,1,,139.5,12802,No apparent damage.
+52,Climb High - Daisy Chain - Yellow,25 mm - Nylon tubular - sewn,125,100,187.5,1.5,,140,17084,No apparent damage except moderate chafe at girth hitch.
+53,Climb High - Daisy Chain - Red,25 mm - Nylon tubular - sewn,125,100,250,2,,144,19945,Moderate chafe at girth hitch.
