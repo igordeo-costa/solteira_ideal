@@ -28,7 +28,7 @@ O artigo de [Gibbs (2005)](https://riggingforrescue.com/wp-content/uploads/2017/
 ### Picos de Força
 No caso do pico de força, os resultados mostram que o tipo de material está diretamente vinculado a quanta energia é transferida para o escalador. Como mostra o gráfico abaixo, deve-se evitar ao máximo solteiras de Dyneema. Apesar de mais leves e resistentes à água e raios UV, esse material é muito pouco dinâmico, transferindo praticamente toda a força da queda para o escalador. Nos ensaios em questão, as solteiras de Dyneema tiveram picos de força consistentemente em torno de 20.000 kN, muito mais do que os 12.000 kN máximos aceitáveis pelo corpo humano.
 
-![G1](GX.png 'Teste de legenda')
+![Imagens/G1](GX.png 'Teste de legenda')
 
 No caso do material conhecido como Spectra, apesar de o gráfico mostrar picos de forças mais baixos, isso ocorreu porque a maioria das solteiras desse material se rompeu (54%), como mostra a tabela abaixo.
 
@@ -91,4 +91,4 @@ O mesmo ocorre com o fator de queda. Mesmo diante de fatores de queda altíssimo
 Diante desses dados, e na falta de um estudo que inclua as MultiChains de Nylon nos testes comparativos, a melhor opção de solteira me parece ser o Purcell Prusik, de preferência aqueles com 3 voltas. Solteiras de Dyneema e/ou outro tipo de polietileno estão fora de cogitação, já que cair nelas se assemelha a cair pendurado em um cabo de aço: os impactos para o corpo humano serão catastróficos. Daisy Chains, por fim, certamente têm seu propósito (serem usadas em artificial, por exemplo), mas não me pareceram uma boa opção como solteira, visto os testes terem mostrado tantos casos de rompimento, além dos alertas feitos até mesmo pelo fabricante desses equipamentos.
 
 #### Observações
-Os dados analisados aqui foram raspados do artigo citado (Gibbs, 2005) usando `python` (`pdfquery` e `BeautifulSoup`). Soube do artigo por meio do vídeo do [Vinícius Maltauro](https://www.youtube.com/watch?v=TrxMoUgFuP8&ab_channel=Vin%C3%ADciusMaltauro). Os dados foram reanalisados por mim usando o `pandas` e os gráficos construídos com o `seaborn`. A tabela com os dados pode ser acessada [aqui]() e o código usado pode ser acessado [aqui](). Ficarei feliz em corrigir qualquer erro cometido.
+Os dados analisados aqui foram raspados do artigo citado (Gibbs, 2005) usando `python` (`pdfquery` e `BeautifulSoup`). Soube do artigo por meio do vídeo do [Vinícius Maltauro](https://www.youtube.com/watch?v=TrxMoUgFuP8&ab_channel=Vin%C3%ADciusMaltauro). Os dados foram reanalisados por mim usando o `pandas` e os gráficos construídos com o `seaborn`. A tabela com os dados pode ser acessada [aqui](https://raw.githubusercontent.com/igordeo-costa/solteira_ideal/main/Gibbs2005.csv) e o código usado pode ser acessado [aqui](https://raw.githubusercontent.com/igordeo-costa/solteira_ideal/main/Solteiras.py). Ficarei feliz em corrigir qualquer erro cometido.
