@@ -28,7 +28,7 @@ O artigo de [Gibbs (2005)](https://riggingforrescue.com/wp-content/uploads/2017/
 ### Picos de Força
 No caso do pico de força, os resultados mostram que o tipo de material está diretamente vinculado a quanta energia é transferida para o escalador. Como mostra o gráfico abaixo, deve-se evitar ao máximo solteiras de Dyneema. Apesar de mais leves e resistentes à água e raios UV, esse material é muito pouco dinâmico, transferindo praticamente toda a força da queda para o escalador. Nos ensaios em questão, as solteiras de Dyneema tiveram picos de força consistentemente em torno de 20.000 kN, muito mais do que os 12.000 kN máximos aceitáveis pelo corpo humano.
 
-![/Imagens/G1](GX.png 'Teste de legenda')
+![../main/Imagens/G1](GX.png)
 
 No caso do material conhecido como Spectra, apesar de o gráfico mostrar picos de forças mais baixos, isso ocorreu porque a maioria das solteiras desse material se rompeu (54%), como mostra a tabela abaixo.
 
