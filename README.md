@@ -70,9 +70,9 @@ Quanto ao modelo da solteira, os dados são um pouco confusos, visto que os auto
 Mas algumas coisas se sobressaem. Primeiro, praticamente em todos os casos em que se usou uma Daisy Chain como solteira houve rompimentos. Mesmo com aquelas que tinham um absorvedor de impacto (*Shorty Screamer*) houve quebra do equipamento, como mostram os dados da tabela acima. Outro aspecto curioso é o fato de os picos de força serem tão variáveis nesse tipo de equipamento, podendo ir de 2.500 kN (saudável para o escalador) até 20.000 kN (mortal para o escalador). O autor do artigo não discute em detalhes os métodos usados para prender a carga nessas solteiras, mas de fato elas não parecem ser uma opção consistentemente segura como conexão primária. Testes comparativos mais detalhados, contudo, são necessários para se tirar conclusões mais robustas.
 
 Restaram como opção, então, apenas o Purcell Prusik e a MultiChain de Nylon, que não foi testada neste artigo. O Purcell, como se vê no gráfico, manteve os picos de força em torno dos 10.000 kN, ou seja, dentro de um padrão aceitável para o corpo humano, apesar de alguns testes terem valores mais elevados.
+No que diz respeito à variação percentual de tamanho da solteira antes e depois do teste, os resultados mostram que Dyneema é um dos materiais mais consistentemente estáticos, mantendo cerca de apenas 18% de elongação após o teste. Os cordeletes (Purcell Prusik), por outro lado, são os que tiveram mais variação na elongação: vários tendo esticado mais de 50% após a queda. O material conhecido como Spectra, por sua vez, também teve grande variação, mas é preciso lembrar que mais de 50% dessas solteiras não suportaram a queda.
 
 ### Percentual de elongação
-No que diz respeito à variação percentual de tamanho da solteira antes e depois do teste, os resultados mostram que Dyneema é um dos materiais mais consistentemente estáticos, mantendo cerca de apenas 18% de elongação após o teste. Os cordeletes (Purcell Prusik), por outro lado, são os que tiveram mais variação na elongação: vários tendo esticado mais de 50% após a queda. O material conhecido como Spectra, por sua vez, também teve grande variação, mas é preciso lembrar que mais de 50% dessas solteiras não suportaram a queda.
 
 ![G3](GZ.png)
 
@@ -100,7 +100,7 @@ Diante desses dados, e na falta de um estudo que inclua as MultiChains de Nylon 
 
 Lembre-se, contudo, que a melhor opção é **evitar colocar-se em situações de risco**. Como alerta [Gibbs, 2005](https://riggingforrescue.com/wp-content/uploads/2017/03/Daisy-Chains-and-Other-Lanyards.pdf), evite ao máximo deixar folgas desnecessárias na sua solteira enquanto ancorado, reduzindo assim os riscos potenciais. Além disso, evite ao máximo colocar-se em uma situação em que uma queda da parada pode ter um fator alto, a saber: quando o escalador (i) estiver na altura da proteção (Fator de Queda igual a 1); e (ii) estiver, por algum motivo, acima da proteção, quando o fator de queda é, pelo menos teoricamente, maior do que 1.
 
-| ![G7](Img01.jpeg 'kjbhsdjkha') |
+| ![G7](Img01.jpeg) |
 |:--:|
 |Imagem roubada [deste capítulo, item 6](https://people.bath.ac.uk/dac33/high/4Gear.htm). |
 
