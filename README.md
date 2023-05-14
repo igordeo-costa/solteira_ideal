@@ -6,7 +6,7 @@ Estando em processo de terminar o meu Curso Básico de Montanhismo (CBM), me dep
 ## :warning: Importante! :warning:
 Este texto **NÃO é uma recomendação** de que solteira usar.
 
-Este texto descreve apenas o processo de pesquisa que eu, **um aluno do curso básico** (lembre-se disso!), realizei para escolher a minha solteira. Mesmo assim, descreve apenas uma parte desse processo, visto que a minha escolha também envolveu conversas com meus instrutores, com outros escaladores e outras leituras técnicas não citadas aqui. Lembre-se de que a escolha de um equipamento depende de inúmeros outros fatores, sendo a mais importante, talvez, a sua própria experiência. Antes de escolher qualquer equipamento, pesquise, converse e principalmente escale com diferentes materiais para descobrir o que funciona melhor para você, na sua realidade e nas suas condições físicas, emocionais, técnicas, financeiras, etc.
+Este texto descreve apenas o processo de pesquisa que eu, **um aluno do curso básico** (lembre-se disso!), realizei para escolher a minha solteira. Mesmo assim, descreve apenas uma parte desse processo, visto que a minha escolha também envolveu conversas com meus instrutores, com outros escaladores e outras leituras técnicas não citadas aqui. Lembre-se de que a escolha de um equipamento depende de inúmeros outros fatores, sendo a mais importante, talvez, a sua própria experiência. Antes de escolher qualquer equipamento, pesquise, converse e principalmente escale com diferentes materiais para descobrir o que funciona melhor para você, na sua realidade e nas suas condições físicas, emocionais, técnicas e [até financeiras](https://www.spelaionloja.com/esportivo/solteirasautosseguros/connect-adjust-solteira-autosseguro-ajustavel-petzl).
 
 ---
 
